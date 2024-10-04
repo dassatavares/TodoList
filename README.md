@@ -1,6 +1,6 @@
-Link do app - https://custom-slider-bice.vercel.app/
+Link do app - https://todo-list-three-lovat.vercel.app/
 <br><br>
-Figma - https://www.figma.com/proto/YOxBKbDVs8KNP3F9yOG3OU/Custom-Slider-(Community)?node-id=1-2&node-type=frame&t=1AIpSXjMUfaGOkxY-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+Figma - https://www.figma.com/design/OW8uHT3nY6W9HgTnTuPise/Todo-List-(Community)?node-id=0-1&node-type=canvas&t=aig5ydJ5xZVG1aGU-0
 
 ![alt text](https://github.com/dassatavares/TodoList/blob/main/images/frame%201.png)
 ![alt text](https://github.com/dassatavares/TodoList/blob/main/images/frame%202.png)
